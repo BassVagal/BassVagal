@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BassVagal
-- 👀 I’m interested in Learning Fmod, Sql and Python, Also quite expert on OpenCore Builds.
-- 🌱 I’m currently learning Sql
-- 💞️ I’m looking to collaborate on Sound Design for Games
+- 👀 I’m interested in Learning Unreal Engine & C++
+- 🌱 I’m currently learning Unreal Engine for Sound Design
 - 📫 How to reach me ...
 
 <!---
